@@ -133,7 +133,7 @@ public class CallAPI {
      */
     public String composeCall(String zipCode) {
 
-        final String API_KEY = "a8b3dd3b741f7a7e401f6c56b4920c69";
+        final String API_KEY = "";
 
          //country code is locked to be US only
         final String COUNTRY_CODE = "US";
