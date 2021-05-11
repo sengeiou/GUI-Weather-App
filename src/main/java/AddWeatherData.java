@@ -1,7 +1,8 @@
-package main_package;
+
 
 import org.json.JSONObject;
 import java.util.ArrayList;
+
 
 /**
  * This class is used to add all the data into a data structure (Array List)

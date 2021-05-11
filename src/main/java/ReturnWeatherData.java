@@ -1,4 +1,3 @@
-package main_package;
 
 import org.json.JSONArray;
 import org.json.JSONObject;

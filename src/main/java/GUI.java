@@ -1,4 +1,3 @@
-package main_package;
 import java.awt.GridLayout ;
 import java.awt.Color;
 import java.awt.event.ActionEvent;
